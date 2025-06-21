@@ -30,7 +30,7 @@ const Hero = () => {
         <div className="mb-6 md:mb-0">
           <Image
             className="rounded-full h-32 w-32 md:h-40 md:w-40 lg:h-44 lg:w-44 object-cover"
-            src="/Profile.png"
+            src="/Profile.png" //lindedin profile image.
            // src="https://res.cloudinary.com/dhuoejdsi/image/upload/v1745743030/profile_ca1jhp.gif"
             alt="profile_pic"
             width={176}
