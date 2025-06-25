@@ -24,7 +24,9 @@ const Hero = () => {
       <div className="flex flex-col-reverse md:flex-row justify-center md:gap-10 sm:py-4 items-center mt-8 md:mt-0">
         <div className="text-center md:text-left md:px-4 md:w-1/2">
           <div className="text-sm px-4 py-3 sm:px-4 font-medium text-white bg-black bg-opacity-50 rounded-xl shadow-lg max-w-prose mx-auto md:mx-0">
-            I&apos;m a final year student and an aspiring full-stack developer. I&apos;m skilled in Next.js and specializing in full-stack development with TypeScript, React, Node.js, and MongoDB/PostgreSQL while leveraging Docker for containerization and WebSockets for real-time application with a passion for building creative and efficient real-world solutions.
+            I&apos;m a full-stack developer (backend-heavy) with over a year of experience in building and developing web applications.
+            I&apos;ve built projects that solve real-world problems with practical use cases, aiming to make user lives easier. If you have a project in mind or would like to collaborate, feel free to connect with me!
+            
           </div>
         </div>
         <div className="mb-6 md:mb-0">
