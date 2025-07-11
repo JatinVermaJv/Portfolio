@@ -29,9 +29,7 @@ export default function SignupFormDemo() {
               transition={{ duration: 1, delay: 0.5 }}
             />
           </div>
-        <p className="text-sm md:text-base max-w-md text-neutral-300 px-8">
-          Have a project in mind? I&apos;d love to hear from you! Reach out to me, and let&apos;s turn your ideas into reality.
-        </p>
+        
 
         <div className="flex flex-col space-y-4 w-full max-w-xs">
         {/* Twitter Button */}

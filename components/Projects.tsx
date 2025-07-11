@@ -30,11 +30,18 @@ export default function Projects() {
   const projects: Record<string, Project[]> = {
     fullstack: [
       {
+        title: "TLDR That",
+        url: "https://tldt-that.vercel.app/",
+        imageUrl: `https://res.cloudinary.com/dhuoejdsi/image/upload/v1752221588/tldr_jcbuqg.png`,
+        github: "https://github.com/JatinVermaJv/TLDR",
+        techStack: ["Next.js", "React", "Tailwind CSS", "Prisma", "TypeScript", "Supabase", "Gemini", "Redis", "Vercel", "Resend"],
+      },
+      {
         title: "RepliX",
         url: "https://repli-x.vercel.app",
         imageUrl: `https://res.cloudinary.com/dhuoejdsi/image/upload/v1745743029/RepliX_ipnp2l.png`,
         github: "https://github.com/JatinVermaJv/RepliX",
-        techStack: ["Next.js", "Express", "Node.js", "Mongodb"],
+        techStack: ["Next.js", "Node.js", "Express.js", "Mongodb", "Tailwind CSS", "TypeScript", "Docker","Vercel", "OAuth2", "Youtube API", "Gemini"],
       },
       {
         title: "Guess The Link",
@@ -42,14 +49,8 @@ export default function Projects() {
         imageUrl: `https://res.cloudinary.com/dhuoejdsi/image/upload/v1745743030/Guess_n7cp23.png`,
         github: "https://github.com/JatinVermaJv/Guess_The_Link",
         techStack: ["Next.js", "Tailwind CSS", "Node.js", "Express", "Docker", "WebSocket"],
-      },
-      {
-        title: "Chesswize",
-        url: "https://chesswize.com/",
-        imageUrl: `https://res.cloudinary.com/dhuoejdsi/image/upload/v1745743029/Chesswize_ldhmxx.png`,
-        github: "",
-        techStack: ["Next.js", "Tailwind CSS", "Recoil", ""],
-      },
+      }
+      
     ],
     mini: [
     //  {

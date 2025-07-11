@@ -24,8 +24,8 @@ const Hero = () => {
       <div className="flex flex-col-reverse md:flex-row justify-center md:gap-10 sm:py-4 items-center mt-8 md:mt-0">
         <div className="text-center md:text-left md:px-4 md:w-1/2">
           <div className="text-sm px-4 py-3 sm:px-4 font-medium text-white bg-black bg-opacity-50 rounded-xl shadow-lg max-w-prose mx-auto md:mx-0">
-            I&apos;m a full-stack developer (backend-heavy) with over a year of experience in building and developing web applications.
-            I&apos;ve built projects that solve real-world problems with practical use cases, aiming to make user lives easier. If you have a project in mind or would like to collaborate, feel free to connect with me!
+            I&apos;m a full-stack developer with over a year of experience in building and developing web applications.
+            I&apos;ve built projects that solve real-world problems and have practical use cases, aiming to make user lives easier. At this point, I want to be a part of taking something from 0 to 1. I just want to be head down chasing that goal.
             
           </div>
         </div>

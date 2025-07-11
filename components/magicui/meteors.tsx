@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 
 export function MeteorDemo() {
-  const names = ["JV", "Jatin", "Mushashi"];
+  const names = ["JV", "Jatin"];
   const [currentNameIndex, setCurrentNameIndex] = useState(0);
   const [isAnimating, setIsAnimating] = useState(false);
 
